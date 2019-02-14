@@ -1,9 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 * linguist-vendored
+frontend/vendor/* linguist-vendored=true
 frontend/js/* linguist-vendored=false
 *.html linguist-vendored=false
 *.java linguist-vendored=false
 frontend/css/* linguist-vendored=false
 *.sql linguist-language=SQL
-frontend/vendor/* linguist-vendored=true
+
