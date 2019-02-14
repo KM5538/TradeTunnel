@@ -3,3 +3,4 @@
 frontend/assets/css/* linguist-vendored
 frontend/css/* linguist-vendored
 frontend/vendor/* linguist-vendored
+*.css linguist-vendored
