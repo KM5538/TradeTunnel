@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 # * text=auto
+*.css linguist-vendored
 frontend/assets/css/* linguist-vendored
 frontend/css/* linguist-vendored
-*.css linguist-vendored
+frontend/vendor/* linguist-vendored
 
