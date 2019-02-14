@@ -2,3 +2,4 @@
 # * text=auto
 *.css linguist-vendored=true
 *.min.css linguist-vendored=true
+frontend/css/* linguist-vendored=true
