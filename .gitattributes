@@ -4,3 +4,4 @@
 *.js linguist-vendored=false
 *.html linguist-vendored=false
 *.java linguist-vendored=false
+frontend/css/* linguist-vendored=false
